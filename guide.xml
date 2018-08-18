@@ -1,0 +1,2714 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AE HD">
+    <display-name lang="pt">AE HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/novanordeste.gif|http://www.lineup.tv.br/canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AGRO CANAL">
+    <display-name lang="pt">AGRO CANAL</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcaraca.gif|http://www.lineup.tv.br/canais/redeminas.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET HD">
+    <display-name lang="pt">ANIMAL PLANET HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvriopardo.gif|http://www.lineup.tv.br/canais/redeminas.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ARTE 1 HD">
+    <display-name lang="pt">ARTE 1 HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvale-ac.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvliberal.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BABY TV HD">
+    <display-name lang="pt">BABY TV HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamposdeminas.gif|http://www.lineup.tv.br/canais/redeminas.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND CAMPINAS HD">
+    <display-name lang="pt">BAND CAMPINAS HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/conexaobr.gif|http://www.lineup.tv.br/canais/tval-mt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND HD">
+    <display-name lang="pt">BAND HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvinterativa2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND NEWS HD">
+    <display-name lang="pt">BAND NEWS HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/eptv.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND SPORTS HD">
+    <display-name lang="pt">BAND SPORTS HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvouronegro.gif|http://www.lineup.tv.br/canais/tvuniversal.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BIS FULL HD">
+    <display-name lang="pt">BIS FULL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvreino.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BOA VONTADE TV">
+    <display-name lang="pt">BOA VONTADE TV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/natgeokids.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BOOMERANG">
+    <display-name lang="pt">BOOMERANG</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvoguialocal.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CANAL BRASIL">
+    <display-name lang="pt">CANAL BRASIL</display-name>
+    <icon src="http://www.lineup.tv.br/canais/valetv.gif|http://www.lineup.tv.br/canais/rct.gif|http://www.lineup.tv.br/canais/tvers.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CANAL DO BOI">
+    <display-name lang="pt">CANAL DO BOI</display-name>
+    <icon src="http://www.lineup.tv.br/canais/e.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CANAL RURAL">
+    <display-name lang="pt">CANAL RURAL</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvtalento.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CANCAO NOVA">
+    <display-name lang="pt">CANCAO NOVA</display-name>
+    <icon src="http://www.lineup.tv.br/canais/curta.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="pt">CARTOON NETWORK</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvtribuna-pe.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CINEMAX HD">
+    <display-name lang="pt">CINEMAX HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvnazare-paragominas.gif|http://www.lineup.tv.br/canais/tvnazare.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNT">
+    <display-name lang="pt">CNT</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-caxias.gif|http://www.lineup.tv.br/canais/tvalrs.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="COMBATE FULL HD">
+    <display-name lang="pt">COMBATE FULL HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="COMEDY CENTRAL HD">
+    <display-name lang="pt">COMEDY CENTRAL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redebrasil-ms.gif|http://www.lineup.tv.br/canais/redebrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CULTURA HD">
+    <display-name lang="pt">CCULTURA HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvnorte.gif|http://www.lineup.tv.br/canais/redeminas.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CURTA HD">
+    <display-name lang="pt">CURTA HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvatividade.gif|http://www.lineup.tv.br/canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL HD">
+    <display-name lang="pt">DISCOVERY CHANNEL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/transtv.gif|http://www.lineup.tv.br/canais/ngt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY CIVILIZATION HD">
+    <display-name lang="pt">DISCOVERY CIVILIZATION HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/unotv.gif|http://www.lineup.tv.br/canais/futura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY HOME HEALTH HD">
+    <display-name lang="pt">DISCOVERY HOME HEALTH HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/premiere.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY KIDS HD">
+    <display-name lang="pt">DISCOVERY KIDS HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvevangelizar.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE HD">
+    <display-name lang="pt">DISCOVERY SCIENCE HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redemirante.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY THEATER HD">
+    <display-name lang="pt">DISCOVERY THEATER HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/telefe.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO HD">
+    <display-name lang="pt">DISCOVERY TURBO HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvnortecarajas.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY WORLD HD">
+    <display-name lang="pt">DISCOVERY WORLD HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/rbs.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISNEY CHANNEL HD">
+    <display-name lang="pt">DDISNEY CHANNEL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/rba-paragominas.gif|http://www.lineup.tv.br/canais/rbatv.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISNEY JR HD">
+    <display-name lang="pt">DISNEY JR HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvmanaira.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISNEY XD HD">
+    <display-name lang="pt">DISNEY XD HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tveldorado.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/siltv.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN BRASIL HD">
+    <display-name lang="pt">ESPN BRASIL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-jacarei.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN EXTRA HD">
+    <display-name lang="pt">ESPN EXTRA HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/transtv.gif|http://www.lineup.tv.br/canais/ngt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvguarany.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN+ HD">
+    <display-name lang="pt">ESPN+ HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/canaldabiblia.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPORTE INTERATIVO">
+    <display-name lang="pt">ESPORTE INTERATIVO</display-name>
+    <icon src="http://www.lineup.tv.br/canais/toptv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPORTE INTERATIVO 2 HD">
+    <display-name lang="pt">ESPORTE INTERATIVO 2 HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/promessas.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FISH TV HD">
+    <display-name lang="pt">FISH TV HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redeseculo21.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOOD NETWORK HD">
+    <display-name lang="pt">FOOD NETWORK HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/recordtv-goias.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/ric.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX LIFE HD">
+    <display-name lang="pt">FOX LIFE HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvguara.gif|http://www.lineup.tv.br/canais/recordnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX SPORTS HD">
+    <display-name lang="pt">FOX SPORTS HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/nsctv.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX SPORTS 2 HD">
+    <display-name lang="pt">FOX SPORTS 2 HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo-df.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FUTURA HD">
+    <display-name lang="pt">FUTURA HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvlideranca.gif|http://www.lineup.tv.br/canais/gazeta.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcbauru.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO BRASILIA (0264)">
+    <display-name lang="pt">GLOBO BRASILIA (0264)</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvetocantins.gif|http://www.lineup.tv.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO EPTV CAMPINAS HD">
+    <display-name lang="pt">GLOBO EPTV CAMPINAS HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/amazon.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO EPTV RIBEIRAO PRETO HD">
+    <display-name lang="pt">GLOBO EPTV RIBEIRAO PRETO HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sbt-brasilia.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO MG (0264)">
+    <display-name lang="pt">GLOBO MG (0264)</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-rp.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO NEWS (0264)">
+    <display-name lang="pt">GLOBO NEWS (0264)</display-name>
+    <icon src="http://www.lineup.tv.br/canais/zoomoo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO NORDESTE (0407)">
+    <display-name lang="pt">GLOBO NORDESTE (0407)</display-name>
+    <icon src="http://www.lineup.tv.br/canais/cwbtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO RJ (0264)">
+    <display-name lang="pt">GLOBO RJ (0264)</display-name>
+    <icon src="http://www.lineup.tv.br/canais/multicultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO SP (0264)">
+    <display-name lang="pt">GLOBO SP (0264)</display-name>
+    <icon src="http://www.lineup.tv.br/canais/ric.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO TV GAZETA ES HD">
+    <display-name lang="pt">GLOBO TV GAZETA ES HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOOB HD">
+    <display-name lang="pt">GLOOB HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/nsctv.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GNT (0264)">
+    <display-name lang="pt">GNT (0264)</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redeamazonica.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pt">H2 HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvtribuna-pe.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="pt">HBO Plus</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO PLUS E HD">
+    <display-name lang="pt">HBO PLUS E HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO FAMILY HD">
+    <display-name lang="pt">HBO FAMILY HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO SIGNATURE HD">
+    <display-name lang="pt">HBO SIGNATURE HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="I-SAT">
+    <display-name lang="pt">I-SAT</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvanhanguera.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="IDEAL TV">
+    <display-name lang="pt">IDEAL TV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/recordtv-litoral.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="INVESTIGACAO DISCOVERY HD">
+    <display-name lang="pt">INVESTIGACAO DISCOVERY HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcidade-teresopolis.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="LIFETIME HD">
+    <display-name lang="pt">LIFETIME HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/foxnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MAIS GLOBOSAT HD">
+    <display-name lang="pt">MAIS GLOBOSAT HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/vtvsantarita.gif|http://www.lineup.tv.br/canais/tvcidade-ma.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MAX HD">
+    <display-name lang="pt">MAX HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MAX PRIME HD">
+    <display-name lang="pt">MAX PRIME HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MAX PRIME E HD">
+    <display-name lang="pt">MAX PRIME E HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MAX UP HD">
+    <display-name lang="pt">MAX UP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MEGAPIX HD">
+    <display-name lang="pt">MEGAPIX HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvambiental.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="pt">MTV HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-rp.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MULTISHOW FULL HD">
+    <display-name lang="pt">MULTISHOW FULL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvfeliz.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MUSIC BOX BRASIL">
+    <display-name lang="pt">MUSIC BOX BRASIL</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redecidade.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NATGEO KIDS HD">
+    <display-name lang="pt">NATGEO KIDS HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvmiragem.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NATGEO WILD HD">
+    <display-name lang="pt">NATGEO WILD HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/travelboxbrazil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NBR">
+    <display-name lang="pt">NBR</display-name>
+    <icon src="http://www.lineup.tv.br/canais/russiatoday.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NHK">
+    <display-name lang="pt">NHK</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tv14dejulho.gif|http://www.lineup.tv.br/canais/recordtv-belem.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NICK HD">
+    <display-name lang="pt">NICK HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/oestetv.gif|http://www.lineup.tv.br/canais/tvuniao.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NICK JR HD">
+    <display-name lang="pt">NICK JR HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="NOVO CANAL">
+    <display-name lang="pt">NOVO CANAL</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvmais-fortaleza.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NOVO TEMPO">
+    <display-name lang="pt">NOVO TEMPO</display-name>
+    <icon src="http://www.lineup.tv.br/canais/ritnoticias.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="OFF HD">
+    <display-name lang="pt">OFF HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/cidadeverde-mt.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="PARAMOUNT CHANNEL HD">
+    <display-name lang="pt">PARAMOUNT CHANNEL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/centraltv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="PLAY TV">
+    <display-name lang="pt">PLAY TV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvaracatuba.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="POLISHOP TV">
+    <display-name lang="pt">POLISHOP TV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/fashionone.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="PREMIERE 2 (0264)">
+    <display-name lang="pt">PREMIERE 2 (0264)</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 3 (0264)">
+    <display-name lang="pt">PREMIERE 3 (0264)</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 4 (0264)">
+    <display-name lang="pt">PREMIERE 4 (0264)</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 5 (0264)">
+    <display-name lang="pt">PREMIERE 5 (0264)</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 6 (0264)">
+    <display-name lang="pt">PREMIERE 6 (0264)</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 7">
+    <display-name lang="pt">PREMIERE 7</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE CLUBES (0264)">
+    <display-name lang="pt">PREMIERE CLUBES (0264)</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="PRIME BOX BRASIL HD">
+    <display-name lang="pt">PRIME BOX BRASIL HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="RAI">
+    <display-name lang="pt">RAI</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RCI">
+    <display-name lang="pt">RCI</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-riogrande.gif|http://www.lineup.tv.br/canais/tvalrs.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RECORD HD">
+    <display-name lang="pt">RECORD HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redebencao.gif|http://www.lineup.tv.br/canais/redegospel.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RECORD NEWS HD">
+    <display-name lang="pt">RECORD NEWS HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/canal8.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="REDE BRASIL">
+    <display-name lang="pt">REDE BRASIL</display-name>
+    <icon src="http://www.lineup.tv.br/canais/rstv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="REDE TV HD">
+    <display-name lang="pt">REDE TV HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="REDE VIDA HD">
+    <display-name lang="pt">REDE VIDA HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvmaisuberaba.gif|http://www.lineup.tv.br/canais/tvevangelizar.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvtucuma.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SESC TV HD">
+    <display-name lang="pt">SESC TV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SIC INTERNATIONAL">
+    <display-name lang="pt">SIC INTERNATIONAL</display-name>
+    <icon src="http://www.lineup.tv.br/canais/etv.gif|http://www.lineup.tv.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SONY HD">
+    <display-name lang="pt">SONY HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/pontanegranews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SPACE HD">
+    <display-name lang="pt">SPACE HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvsurui.gif|http://www.lineup.tv.br/canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SPORTV 1 FULL HD">
+    <display-name lang="pt">SPORTV 1 FULL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/ejtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SPORTV 2 FULL HD">
+    <display-name lang="pt">SPORTV 2 FULL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvvitoria.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SPORTV 3 FULL HD">
+    <display-name lang="pt">SPORTV 3 FULL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/cb24.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL HD">
+    <display-name lang="pt">STUDIO UNIVERSAL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/multiplay-canallocal.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Sundance TV">
+    <display-name lang="pt">SUNDANCE HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvmais-fortaleza.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SYFY HD">
+    <display-name lang="pt">SYFY HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvmirante-altamira.gif|http://www.lineup.tv.br/canais/recordtv-belem.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TBS HD">
+    <display-name lang="pt">TBS HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/nsctv.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TC ACTION HD">
+    <display-name lang="pt">TC ACTION HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC CULT HD">
+    <display-name lang="pt">TC CULT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC FUN">
+    <display-name lang="pt">TC FUN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC PIPOCA HD">
+    <display-name lang="pt">TC PIPOCA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC PREMIUM HD">
+    <display-name lang="pt">TC PREMIUM HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC TOUCH HD">
+    <display-name lang="pt">TC TOUCH HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TCM HD">
+    <display-name lang="pt">TCM HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/recordnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TERRA VIVA">
+    <display-name lang="pt">TERRA VIVA</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvdescalvados.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="THE HISTORY CHANNEL">
+    <display-name lang="pt">THE HISTORY CHANNEL</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="pt">TLC HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/gemtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT SERIES HD">
+    <display-name lang="pt">TNT SERIES HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/toptv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TOONCAST HD">
+    <display-name lang="pt">TOONCAST HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/band-mg.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TRU TV">
+    <display-name lang="pt">TRU TV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvfronteira.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV BRASIL">
+    <display-name lang="pt">TV BRASIL</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvinconfidentes.gif|http://www.lineup.tv.br/canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV CAMARA">
+    <display-name lang="pt">TV CAMARA</display-name>
+    <icon src="http://www.lineup.tv.br/canais/rpc.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV EVANGELIZAR">
+    <display-name lang="pt">TV EVANGELIZAR</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvinterativa-ms.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV GAZETA HD">
+    <display-name lang="pt">TV GAZETA HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvsulbahia.gif|http://www.lineup.tv.br/canais/rit.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV JUSTICA">
+    <display-name lang="pt">TV JUSTICA</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvalepa.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV RA TIM BUM HD">
+    <display-name lang="pt">TV RA TIM BUM HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV SENADO">
+    <display-name lang="pt">TV SENADO</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sbt-tocantins.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV5 MONDE">
+    <display-name lang="pt">TV5 MONDE</display-name>
+    <icon src="http://www.lineup.tv.br/canais/kisstv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="pt">TVE</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redemassa.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL HD">
+    <display-name lang="pt">UNIVERSAL CHANNEL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redesuper.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="VH1 MEGA HITS HD">
+    <display-name lang="pt">VH1 MEGA HITS HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvbirigui.gif|http://www.lineup.tv.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="VIVA (0264)">
+    <display-name lang="pt">VIVA (0264)</display-name>
+    <icon src="http://www.lineup.tv.br/canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="WARNER CHANNEL HD">
+    <display-name lang="pt">WARNER CHANNEL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvvitoria.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="WOOHOO HD">
+    <display-name lang="pt">WOOHOO HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-piracicaba.gif|http://www.lineup.tv.br/canais/tvalesp.gif|http://www.lineup.tv.br/canais/tvunimep.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="XxX: PLAYBOY TV HD">
+    <display-name lang="pt">XxX PLAYBOY TV HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/munditv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="XxX: SEXTREME HD">
+    <display-name lang="pt">XxX SEXTREME HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tcm10.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="XxX: SEXY HOT">
+    <display-name lang="pt">XxX SEXY HOT</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvintegracao.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="XxX: VENUS HD">
+    <display-name lang="pt">XxX VENUS HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvsaoleo.gif|http://www.lineup.tv.br/canais/rct.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ZOOMOO HD">
+    <display-name lang="pt">ZOOMOO HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/recordtv-interiorrj.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20180818014500 -0300" stop="20180818033500 -0300" channel="HBO HD">
+    <title lang="pt">Terra de Minas</title>
+    <desc lang="pt">Um grupo de soldados alemães, outrora combatentes nazistas, recebem uma nova tarefa ao fim da 2º Guerra Mundial: precisam escavar e remover 2 milhões de minas terrestres em(n)</desc>
+    <credits>
+      <director>Martin Zandvliet</director>
+      <actor>Roland Moller</actor>
+      <actor>Louis Hofmann</actor>
+      <actor>Joel Basman</actor>
+      <actor>Mikkel Boe Folsgaard</actor>
+      <actor>Laura Bro</actor>
+      <actor>Zoe Zandvliet</actor>
+      <actor>Mads Riisom</actor>
+      <actor>Oskar Bökelmann</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818033500 -0300" stop="20180818045000 -0300" channel="HBO HD">
+    <title lang="pt">Doações de Campanha: O Dinheiro Fala Mais Alto</title>
+    <desc lang="pt">Através de diversas entrevistas com algumas dos maiores doadores dos EUA, as personalidades mais ricas e politicamente influentes do país, este é um registro aprofundado sobre o mundo das bilionárias doações de campanha(n)</desc>
+    <credits>
+      <director>Alexandra Pelosi</director>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818045000 -0300" stop="20180818064500 -0300" channel="HBO HD">
+    <title lang="pt">As Loucas Aventuras de James West</title>
+    <desc lang="pt">Dois homens com personalidades diferentes são recrutados para uma missão super especial: neutralizar um psicótico que deseja matar o Presidente dos EUA(n)</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Will Smith</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Kenneth Brannagh</actor>
+      <actor>Salma Hayek</actor>
+      <actor>M. Emmet Walsh</actor>
+      <actor>Ted Levine</actor>
+      <actor>Frederique Van Der Wal</actor>
+      <actor>Musetta Vander</actor>
+      <actor>Sofia Eng</actor>
+      <actor>Ling Bai</actor>
+      <actor>Garcelle Beauvais</actor>
+    </credits>
+    <date>1999</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818064500 -0300" stop="20180818085500 -0300" channel="HBO HD">
+    <title lang="pt">O Espaço Entre Nós</title>
+    <desc lang="pt">Aos 16 anos de idade, Gardner, o primeiro ser humano nascido em Marte, vem à Terra em busca de respostas sobre suas origens. Ele também espera se encontrar com Tulsa, uma garota que conheceu na Internet(n)</desc>
+    <credits>
+      <director>Peter Chelsom</director>
+      <actor>Gary Oldman</actor>
+      <actor>Asa Butterfield</actor>
+      <actor>Carla Gugino</actor>
+      <actor>Britt Robertson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818085500 -0300" stop="20180818110500 -0300" channel="HBO HD">
+    <title lang="pt">Atração Perigosa</title>
+    <desc lang="pt">Enquanto planeja seu próximo trabalho, um experiente ladrão tenta controlar seus sentimentos por uma gerente de banco que está ligada a um de seus roubos anteriores, enquanto um agente da FBI quer acabar com ele e sua equipe(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Ben Affleck</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Blake Lively</actor>
+      <actor>Titus Welliver</actor>
+      <actor>Pete Postlethwaite</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818110500 -0300" stop="20180818114000 -0300" channel="HBO HD">
+    <title lang="pt">Last Week Tonight With John Oliver</title>
+    <desc lang="pt">John Oliver é o responsável por conduzir este programa de humor onde, durante trinta minutos, ele mostra um olhar satírico sobre as notícias, a política e fatos da atualidade(n)</desc>
+    <credits>
+      <director>Paul Pennolino</director>
+      <actor>John Oliver</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S5 E20</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818114000 -0300" stop="20180818133500 -0300" channel="HBO HD">
+    <title lang="pt">Sim Senhor</title>
+    <desc lang="pt">Carrey é Carl Allen, um sujeito que perdeu muitas oportunidades por causa da palavra(n)</desc>
+    <credits>
+      <director>Peyton Reed</director>
+      <actor>Jim Carrey</actor>
+      <actor>Zooey Deschanel</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>John Michael Higgins</actor>
+      <actor>Terence Stamp</actor>
+      <actor>Rhys Darby</actor>
+      <actor>Danny Masterson</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818133500 -0300" stop="20180818153500 -0300" channel="HBO HD">
+    <title lang="pt">Fome de Poder</title>
+    <desc lang="pt">Ray Kroc descobre o restaurante de fast-food operado pelos irmãos McDonald no sul da Califórnia no final dos anos 50. Impressionado com o potencial do empreendimento, o ambicioso faz de tudo para assumir o controle do negócio(n)</desc>
+    <credits>
+      <director>John Lee Hancock</director>
+      <actor>Nick Offerman</actor>
+      <actor>Laura Dern</actor>
+      <actor>Griff Furst</actor>
+      <actor>Michael Keaton</actor>
+      <actor>John Carroll Lynch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>B.J. Novak</actor>
+      <actor>Patrick Wilson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818153500 -0300" stop="20180818172000 -0300" channel="HBO HD">
+    <title lang="pt">Invasores</title>
+    <desc lang="pt">Uma misteriosa epidemia vem alterando o comportamento dos humanos. Uma psiquiatra de Washington descobre que essa epidemia é de origem extraterrestre, e que precisa proteger o filho, que poderá ser vital para impedir uma invasão(n)</desc>
+    <credits>
+      <director>Oliver Hirschbiegel</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Daniel Craig</actor>
+      <actor>Jeremy Northam</actor>
+      <actor>Jackson Bond</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Veronica Cartwright</actor>
+      <actor>Josef Sommer</actor>
+      <actor>Eric Benjamin</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818172000 -0300" stop="20180818194000 -0300" channel="HBO HD">
+    <title lang="pt">Homens de Coragem</title>
+    <desc lang="pt">Um incêndio gigantesco na região do Arizona levou a um verdadeiro combate com os mais experientes bombeiros da região(n)</desc>
+    <credits>
+      <director>Joseph Kosinski</director>
+      <actor>Josh Brolin</actor>
+      <actor>Miles Teller</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>James Badge Dale</actor>
+      <actor>Taylor Kitsch</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818194000 -0300" stop="20180818220000 -0300" channel="HBO HD">
+    <title lang="pt">Invocação do Mal 2</title>
+    <desc lang="pt">Sete anos após os eventos de Invocação do Mal, Lorraine e Ed Warren desembarcam na Inglaterra para ajudar uma família atormentada por uma manifestação poltergeist na filha(n)</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Patrick Wilson</actor>
+      <actor>Vera Farmiga</actor>
+      <actor>Madison Wolfe</actor>
+      <actor>Frances O'Connor</actor>
+      <actor>Lauren Esposito</actor>
+      <actor>Benjamin Haigh</actor>
+      <actor>Patrick McAuley</actor>
+      <actor>Simon McBurney</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818002500 -0300" stop="20180818020000 -0300" channel="HBO Plus">
+    <title lang="pt">Fronteira Virtual</title>
+    <desc lang="pt">Dois gênios invadem as memórias de terroristas para identificar a localização das bombas usando um ambiente de realidade virtual, mas algumas pessoas querem usar a nuvem de memória para fins perversos(n)</desc>
+    <credits>
+      <director>Robert Scott Wildes</director>
+      <actor>Robert Scott Wildes</actor>
+      <actor>Gabriel Byrne</actor>
+      <actor>Laura Fraser</actor>
+      <actor>Justin Chatwin</actor>
+      <actor>Daniel Portman</actor>
+      <actor>Tomiwa Edun</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818020000 -0300" stop="20180818041000 -0300" channel="HBO Plus">
+    <title lang="pt">As Confissões de Schmidt</title>
+    <desc lang="pt">Enfrentando uma fase complicada, Schmidt compartilha sensações e planos com garoto carente da Tanzânia por meio de longas e até engraçadas cartas(n)</desc>
+    <credits>
+      <director>Alexander Payne</director>
+      <actor>Jack Nicholson</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Hope Davis</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>June Squibb</actor>
+      <actor>Howard Hesseman</actor>
+      <actor>Len Cariou</actor>
+      <actor>James J. Crawley</actor>
+      <actor>Melissa Hanna</actor>
+      <actor>Steve Heller</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818041000 -0300" stop="20180818054500 -0300" channel="HBO Plus">
+    <title lang="pt">A Lenda do Dragão</title>
+    <desc lang="pt">Numa aldeia, os habitantes são ameaçados por uma criatura com corpo de dragão e cabeça de inseto(n)</desc>
+    <credits>
+      <director>Steven R. Monroe</director>
+      <actor>Michael Worth</actor>
+      <actor>Hugh Ross</actor>
+      <actor>Steven Waddington</actor>
+      <actor>Tahmoh Penikett</actor>
+      <actor>Hugh Ross</actor>
+      <actor>Ian Virgo</actor>
+      <actor>Richard Riddell</actor>
+      <actor>Steven Waddington</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818054500 -0300" stop="20180818071500 -0300" channel="HBO Plus">
+    <title lang="pt">Como Cães e Gatos 2 - A Vingança de Kitty Galore</title>
+    <desc lang="pt">Kitty Galore, uma ex-colaboradora da organização MEOWS de espiões felinos, está cada vez mais pirada e bolou um plano maligno para, além de derrotar de vez seus inimigos caninos, também derrubar seus ex-companheiros(n)</desc>
+    <credits>
+      <director>Brad Peyton</director>
+      <actor>James Marsden</actor>
+      <actor>Nick Nolte</actor>
+      <actor>Christina Applegate</actor>
+      <actor>Katt Williams</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Sean Hayes</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818071500 -0300" stop="20180818084500 -0300" channel="HBO Plus">
+    <title lang="pt">Dragon Ball Z: A Batalha dos Deuses</title>
+    <desc lang="pt">Bills, o deus da destruição, despertou depois de anos de letargia. Ao escutar que um super saiyajin conseguiu vencer Freezer, Bills vai atrás de Goku e de um suposto deus saiyajin(n)</desc>
+    <credits>
+      <director>Masahiro Hosoda</director>
+      <actor>Vozes de Sean Schemmel</actor>
+      <actor>Jason Douglas</actor>
+      <actor>Ian Sinclair</actor>
+      <actor>Monica Rial</actor>
+      <actor>Cynthia Cranz</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818084500 -0300" stop="20180818101000 -0300" channel="HBO Plus">
+    <title lang="pt">Jonah Hex - O Caçador de Recompensas</title>
+    <desc lang="pt">Jonah Hex é um caçador de recompensas que, durante a Guerra Civil, foi um rebelde cuja honra o levou a um enfrentamento com o general da confederação, o temido Turnbull, que assassinou sua família(n)</desc>
+    <credits>
+      <director>Jimmy Hayward</director>
+      <actor>Josh Brolin</actor>
+      <actor>John Malkovich</actor>
+      <actor>Megan Fox</actor>
+      <actor>Michael Fassbender</actor>
+      <actor>Will Arnett</actor>
+      <actor>John Gallagher Jr</actor>
+      <actor>Michael Shannon</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818101000 -0300" stop="20180818120000 -0300" channel="HBO Plus">
+    <title lang="pt">O Justiceiro: Em Zona de Guerra</title>
+    <desc lang="pt">Frank Castle, ex-oficial da marinha e agente do FBI, continua sua luta contra o crime. Ele investiga pistas sobre Billy Russoti, perigoso chefe do crime organizado(n)</desc>
+    <credits>
+      <director>Lexi Alexander</director>
+      <actor>Ray Stevenson</actor>
+      <actor>Dominic West</actor>
+      <actor>Julie Benz</actor>
+      <actor>Colin Salmon</actor>
+      <actor>Doug Hutchison</actor>
+      <actor>Wayne Knight</actor>
+      <actor>Stephanie Janusauskas</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180818120000 -0300" stop="20180818141500 -0300" channel="HBO Plus">
+    <title lang="pt">Creed: Nascido para Lutar</title>
+    <desc lang="pt">Adonis Johnson Creed é filho do ex-campeão de boxe Apollo Creed. Após a morte do pai no ringue, Adonis quer seguir seus passos no boxe e viaja à Filadélfia para contratar o campeão aposentado Rocky Balboa para treiná-lo(n)</desc>
+    <credits>
+      <director>Ryan Coogler</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Ritchie Coster</actor>
+      <actor>Michael B. Jordan</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818141500 -0300" stop="20180818161500 -0300" channel="HBO Plus">
+    <title lang="pt">Um Salão do Barulho 3</title>
+    <desc lang="pt">Dez anos se passaram após a última ida a barbearia de Calvin. Seus amigos de longa data continuam os mesmos. Uma onda de violência começa a tomar conta do bairro, fazendo com que os moradores se juntem para salvar a comunidade(n)</desc>
+    <credits>
+      <director>Malcolm D. Lee</director>
+      <actor>Ice Cube</actor>
+      <actor>Regina Hall</actor>
+      <actor>Anthony Anderson</actor>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Sean Patrick Thomas</actor>
+      <actor>Eve</actor>
+      <actor>Anthony Anderson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818161500 -0300" stop="20180818181500 -0300" channel="HBO Plus">
+    <title lang="pt">Blade 2: O Caçador de Vampiros</title>
+    <desc lang="pt">Blade terá de enfrentar uma nova raça de supervampiros chamada reapers, criada a partir de cruzamentos genéticos entre humanos e vampiros(n)</desc>
+    <credits>
+      <director>Guillermo del Toro</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Kris Kristofferson</actor>
+      <actor>Ron Perlman</actor>
+      <actor>Luke Goss</actor>
+      <actor>Leonor Varela</actor>
+      <actor>Matt Schulze</actor>
+      <actor>Pete Lee-Wilson</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Daz Crawford</actor>
+      <actor>Andrea Miltner</actor>
+      <actor>Bridge Markland</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818181500 -0300" stop="20180818190000 -0300" channel="HBO Plus">
+    <title lang="pt">Destino Salvador</title>
+    <desc lang="pt">Destino Salvador apresenta seis histórias, seis destinos forjados na cidade tão celebrada por seus ritmos, seus sabores e a alegria de seu povo(n)</desc>
+    <credits>
+      <director>Luciano Moura</director>
+      <actor>Edith Méric</actor>
+      <actor>Alice Mazur</actor>
+      <actor>Renan Motta</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818190000 -0300" stop="20180818194500 -0300" channel="HBO Plus">
+    <title lang="pt">Destino Salvador</title>
+    <desc lang="pt">Destino Salvador apresenta seis histórias, seis destinos forjados na cidade tão celebrada por seus ritmos, seus sabores e a alegria de seu povo(n)</desc>
+    <credits>
+      <director>Juliana Borges</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818194500 -0300" stop="20180818220000 -0300" channel="HBO Plus">
+    <title lang="pt">Creed: Nascido para Lutar</title>
+    <desc lang="pt">Adonis Johnson Creed é filho do ex-campeão de boxe Apollo Creed. Após a morte do pai no ringue, Adonis quer seguir seus passos no boxe e viaja à Filadélfia para contratar o campeão aposentado Rocky Balboa para treiná-lo(n)</desc>
+    <credits>
+      <director>Ryan Coogler</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Ritchie Coster</actor>
+      <actor>Michael B. Jordan</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818220000 -0300" stop="20180818234500 -0300" channel="HBO Plus">
+    <title lang="pt">Quero Matar meu Chefe</title>
+    <desc lang="pt">Três amigos têm um problema em comum: eles odeiam seus chefes exploradores. Assim, criam um plano. Já que não podem pedir demissão, contratam um consultor que ajudará a matar os chefes(n)</desc>
+    <credits>
+      <director>Seth Gordon</director>
+      <actor>Donald Sutherland</actor>
+      <actor>Reginald Ballard</actor>
+      <actor>Jason Sudeikis</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Steve Wiebe</actor>
+      <actor>Jason Bateman</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818234500 -0300" stop="20180819014200 -0300" channel="HBO Plus">
+    <title lang="pt">Além da Morte</title>
+    <desc lang="pt">Estudantes de medicina começam a explorar o reino das experiências de quase morte. Cada um deles passa pela experiência de ter o coração parado e depois revivido(n)</desc>
+    <credits>
+      <director>Niels Arden Oplev</director>
+      <actor>Ellen Page</actor>
+      <actor>Diego Luna</actor>
+      <actor>Nina Dobrev</actor>
+      <actor>James Norton</actor>
+      <actor>Kiersey Clemons</actor>
+      <actor>Kiefer Sutherland</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818010500 -0300" stop="20180818022300 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">DC Super Girls - Jogos Intergalácticos</title>
+    <desc lang="pt">Prepare-se para os Jogos Intergalácticos, uma competição que tem por objetivo promover a paz em toda a galáxia. A rivalidade fica à flor da pele com essas competidoras(n)</desc>
+    <credits>
+      <director>Cecilia Aranovich</director>
+      <actor>Vozes de Yvette Nicole Brown</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Romi Dames</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>John DiMaggio</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818022300 -0300" stop="20180818034100 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">Batman e Arlequina</title>
+    <desc lang="pt">Batman e Asa Noturna perseguem Hera Venenosa e Jason Woodrue, mais conhecido como Homem Florônico, ao descobrirem que eles roubaram um conteúdo misterioso da S.T.A.R. Laboratórios(n)</desc>
+    <credits>
+      <director>Sam Liu</director>
+      <actor>Vozes de Kevin Conroy</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Loren Lester</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Mindy Sterling</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818034100 -0300" stop="20180818041700 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">Abra Seus Olhos</title>
+    <desc lang="pt">Relata a extraordinária jornada de Manisara e Dunga, um casal de idosos das remotas montanhas do Himalaia no Nepal, para se submeterem a uma cirurgia que lhes devolveria a visão(n)</desc>
+    <credits>
+      <director>Irene Taylor Brodsky</director>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818041700 -0300" stop="20180818060800 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">A Colheita da Fé</title>
+    <desc lang="pt">Michael Spurlock é o pastor de uma pequena igreja anglicana prestes a fechar. Quando um grupo de refugiados chega à sua congregação, Michael tentará ajudá-los unindo a comunidade para plantar novas colheitas(n)</desc>
+    <credits>
+      <director>Steve Gomer</director>
+      <actor>John Corbett</actor>
+      <actor>Cara Buono</actor>
+      <actor>Barry Corbin</actor>
+      <actor>David Keith</actor>
+      <actor>Myles Moore</actor>
+      <actor>Nelson Lee</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818060800 -0300" stop="20180818080400 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">Os Goonies</title>
+    <desc lang="pt">Escrito por Steven Spielberg. Protagonizado por um grupo de amigos que partirá em uma aventura através de cavernas subterrâneas e navios afundados em busca de um tesouro pirata(n)</desc>
+    <credits>
+      <director>Richard Dooner</director>
+      <actor>Sean Astin</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Jeff Cohen</actor>
+      <actor>Corey Feldman</actor>
+      <actor>Kerri Green</actor>
+      <actor>Martha Plimpton</actor>
+      <actor>Jonathan Ke Quan</actor>
+    </credits>
+    <date>1985</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818080400 -0300" stop="20180818100000 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">A Bússola de Ouro</title>
+    <desc lang="pt">Lyra vive uma vida normal no Oxford's Jordan College. Mas, quando seu amigo Roger desaparece, ela começa a enfrentar manifestações sobrenaturais e descobre um universo paralelo, habitado por bruxas e criaturas incríveis(n)</desc>
+    <credits>
+      <director>Chris Weitz</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Daniel Craig</actor>
+      <actor>Dakota Blue Richards</actor>
+      <actor>Ben Walker</actor>
+      <actor>Freddie Highmore</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Eva Green</actor>
+      <actor>Jim Carter</actor>
+      <actor>Tom Courtenay</actor>
+      <actor>Ian McShane</actor>
+      <actor>Sam Elliot</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818100000 -0300" stop="20180818115200 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">7 Minutos Depois da Meia-noite</title>
+    <desc lang="pt">Conor é um garoto de 13 anos de idade, com muitos problemas na vida. Seu pai é muito ausente, a mãe sofre um um câncer em fase terminal, a avó é uma megera(n)</desc>
+    <credits>
+      <director>J.A. Bayona</director>
+      <actor>Lewis MacDougall</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Felicity Jones</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Ben Moor</actor>
+      <actor>James Melville</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818115200 -0300" stop="20180818123000 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">Abra Seus Olhos</title>
+    <desc lang="pt">Relata a extraordinária jornada de Manisara e Dunga, um casal de idosos das remotas montanhas do Himalaia no Nepal, para se submeterem a uma cirurgia que lhes devolveria a visão(n)</desc>
+    <credits>
+      <director>Irene Taylor Brodsky</director>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818123000 -0300" stop="20180818135700 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">Tá Dando Onda 2</title>
+    <desc lang="pt">O pinguim surfista Cadu Maverick está de volta e em busca de novas aventuras(n)</desc>
+    <credits>
+      <director>Henry Yu</director>
+      <actor>Vozes de Jeremy Shada</actor>
+      <actor>Melissa Sturm</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Saraya Jade Bevis</actor>
+      <actor>Mark Calaway</actor>
+      <actor>Declan Carter</actor>
+      <actor>John Cena</actor>
+      <actor>Michael Coulthard</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818135700 -0300" stop="20180818151500 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">Lego Scooby-doo - Os Fantasmas de Hollywood</title>
+    <desc lang="pt">Scooby e sua turma vão para Hollywood e tentam resolver o mistério de um antigo estúdio de cinema que foi invadido por monstros que apareceram em seus clássicos filmes(n)</desc>
+    <credits>
+      <director>Rick Morales</director>
+      <actor>Vozes de Frank Welker</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Kate Micucci</actor>
+      <actor>JB Blanc</actor>
+      <actor>Cassandra Peterson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818151500 -0300" stop="20180818165000 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">Os Cavaleiros do Zodíaco: A Lenda do Santuário</title>
+    <desc lang="pt">O cavaleiro de Sagitário conseguiu proteger a reencarnação da deusa Athena na Terra, um bebê chamado Saori. Dezesseis anos depois, a jovem conhecerá a sua missão e a um grupo de cavaleiros dispostos a protegê-la das forças do mal(n)</desc>
+    <credits>
+      <director>Kei'ichi Sato</director>
+      <actor>Vozes de Kaito Ishikawa</actor>
+      <actor>Kenji Akabane</actor>
+      <actor>Kenshô Ono</actor>
+      <actor>Nobuhiko Okamoto</actor>
+      <actor>Kenji Nojima</actor>
+      <actor>Go Inoue</actor>
+      <actor>Ayaka Sasaki</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818165000 -0300" stop="20180818180500 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">Batman Vs. Duas-Caras</title>
+    <desc lang="pt">Quando um experimento para eliminar o mal dos criminosos de Gotham City falha, a cara do promotor Harvey Dent fica completamente desfigurada(n)</desc>
+    <credits>
+      <director>Rick Morales</director>
+      <actor>Vozes de Adam West</actor>
+      <actor>Burt Ward</actor>
+      <actor>William Shatner</actor>
+      <actor>Julie Newmar</actor>
+      <actor>Jeff Bergman</actor>
+      <actor>Sirena Irwin</actor>
+      <actor>Thomas Lennon</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818180500 -0300" stop="20180818200000 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">A Bússola de Ouro</title>
+    <desc lang="pt">Lyra vive uma vida normal no Oxford's Jordan College. Mas, quando seu amigo Roger desaparece, ela começa a enfrentar manifestações sobrenaturais e descobre um universo paralelo, habitado por bruxas e criaturas incríveis(n)</desc>
+    <credits>
+      <director>Chris Weitz</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Daniel Craig</actor>
+      <actor>Dakota Blue Richards</actor>
+      <actor>Ben Walker</actor>
+      <actor>Freddie Highmore</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Eva Green</actor>
+      <actor>Jim Carter</actor>
+      <actor>Tom Courtenay</actor>
+      <actor>Ian McShane</actor>
+      <actor>Sam Elliot</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818200000 -0300" stop="20180818215100 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">7 Minutos Depois da Meia-noite</title>
+    <desc lang="pt">Conor é um garoto de 13 anos de idade, com muitos problemas na vida. Seu pai é muito ausente, a mãe sofre um um câncer em fase terminal, a avó é uma megera(n)</desc>
+    <credits>
+      <director>J.A. Bayona</director>
+      <actor>Lewis MacDougall</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Felicity Jones</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Ben Moor</actor>
+      <actor>James Melville</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818215100 -0300" stop="20180818232000 -0300" channel="HBO FAMILY HD">
+    <title lang="pt">O Mistério de Hailey Dean: Assassinato com Amor</title>
+    <desc lang="pt">Hailey Dean é uma ex-promotora que agora atua como terapeuta. Quando um de seus pacientes é interrogado pela polícia sobre o desaparecimento de seus pais, a antiga experiência de Hailey a ajudará a provar sua inocência(n)</desc>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Kellie Martin</actor>
+      <actor>Viv Leacock</actor>
+      <actor>Jesse Moss</actor>
+      <actor>Michael Kopsa</actor>
+      <actor>Susan Hogan</actor>
+      <actor>Tom Butler</actor>
+      <actor>Giacomo Baessato</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818000400 -0300" stop="20180818005900 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">Ray Donovan</title>
+    <desc lang="pt">Abby toma uma decisão que abala toda a família. Sam mostra a Ray o que está disposta a fazer para proteger seu império(n)</desc>
+    <credits>
+      <director>Zetna Fuentes</director>
+      <actor>Liev Schreiber</actor>
+      <actor>Paula Malcomson</actor>
+      <actor>Eddie Marsan</actor>
+      <actor>Dash Mihok</actor>
+      <actor>Steven Bauer</actor>
+      <actor>Katherine Moennig</actor>
+      <actor>Kerris Dorsey</actor>
+      <actor>Devon Bagby</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818005900 -0300" stop="20180818024800 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">Paterno</title>
+    <desc lang="pt">Um retrato do veterano treinador de futebol americano Joe Paterno, no momento em que seu legado se vê ofuscado pelo escândalo de abuso sexual de seu colega Jerry Sanduzky, ao mesmo tempo em que descobre que sofre de câncer(n)</desc>
+    <credits>
+      <director>Barry Levinson</director>
+      <actor>Al Pacino</actor>
+      <actor>Riley Keough</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Greg Grunberg</actor>
+      <actor>Nicholas Sadler</actor>
+      <actor>Jim Johnson</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818024800 -0300" stop="20180818050400 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">Michael Collins - O Preço da Liberdade</title>
+    <desc lang="pt">A vida do líder irlandês perpetrado por mercenários ingleses que serviu de intermediário nas negociações que culminaram com a independência da Irlanda do Sul(n)</desc>
+    <credits>
+      <director>Neil Jordan</director>
+      <actor>Liam Neeson</actor>
+      <actor>Aidan Quinn</actor>
+      <actor>Stephen Rea</actor>
+      <actor>Alan Rickman</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Ian Hart</actor>
+      <actor>Richard Ingram</actor>
+      <actor>John Kenny</actor>
+      <actor>Ronan McCairbre</actor>
+      <actor>Jer O'Leary</actor>
+      <actor>Martin Murphy</actor>
+      <actor>Sean McGinley</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818050400 -0300" stop="20180818072100 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">A Conquista da Honra</title>
+    <desc lang="pt">O filme mostra a história real dos seis soldados que ergueram a bandeira norte-americana na batalha de Iwo Jima, decisiva na Segunda Guerra Mundial(n)</desc>
+    <credits>
+      <director>Clint Eastwood</director>
+      <actor>Ryan Phillippe</actor>
+      <actor>Jesse Bradford</actor>
+      <actor>Adam Beach</actor>
+      <actor>John Benjamin Hickey</actor>
+      <actor>John Slattery</actor>
+      <actor>Barry Pepper</actor>
+      <actor>Jamie Bell</actor>
+      <actor>Paul Walker</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Neal McDonough</actor>
+      <actor>Melenie Linskey</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818072100 -0300" stop="20180818091500 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">Meu Mestre, Minha Vida</title>
+    <desc lang="pt">Em 1987, a Eastside High School reunia professores incapazes, alunos desmotivados, delinquentes e traficantes. E era considerada a pior das escolas de Nova Jersey. Até que um homem chegou para mudar tudo(n)</desc>
+    <credits>
+      <director>John G Avildsen</director>
+      <actor>Morgan Freeman</actor>
+      <actor>Beverly Todd</actor>
+      <actor>Robert Guillaume</actor>
+      <actor>Alan North</actor>
+      <actor>Lynne Thigpen</actor>
+      <actor>Robin Bartlett</actor>
+      <actor>Michael Beach</actor>
+      <actor>Ethan Phillips</actor>
+      <actor>Sandra Reaves-Phillips</actor>
+      <actor>Karen Malina White</actor>
+    </credits>
+    <date>1989</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818091500 -0300" stop="20180818112000 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">O Turista Acidental</title>
+    <desc lang="pt">Garota alegre e divertida muda a vida do escritor especializado em turismo - que não gosta de viajar - e fora abandonado pela esposa depois da morte do único filho(n)</desc>
+    <credits>
+      <director>Lawrence Kasdan</director>
+      <actor>William Hurt</actor>
+      <actor>Kathleen Turner</actor>
+      <actor>Geena Davis</actor>
+      <actor>Amy Wright</actor>
+      <actor>Bill Pullman</actor>
+      <actor>David Ogden Stiers</actor>
+      <actor>Ed Begley Jr</actor>
+      <actor>Robert Hy Gorman</actor>
+      <actor>Caroline Houck</actor>
+    </credits>
+    <date>1988</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818112000 -0300" stop="20180818130000 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">Noites de Tormenta</title>
+    <desc lang="pt">Uma mulher com a vida em polvorosa e um homem em crise de consciência se conhecem em uma pousada, onde têm um fim de semana marcante. Começa aí um romance que mudará suas vidas(n)</desc>
+    <credits>
+      <director>George C. Wolfe</director>
+      <actor>Richard Gere</actor>
+      <actor>Diane Lane</actor>
+      <actor>Scott Glenn</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Viola Davis</actor>
+      <actor>Becky Ann Baker</actor>
+      <actor>Linda Molloy</actor>
+      <actor>Pablo Schreiber</actor>
+      <actor>Mae Whitman</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818130000 -0300" stop="20180818151600 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">The Normal Heart</title>
+    <desc lang="pt">Drama original HBO que narra a história do início da crise da AIDS em Nova York nos anos 80, com foco no esforço de vários ativistas gays e seus aliados na luta para expor a verdade sobre a epidemia(n)</desc>
+    <credits>
+      <director>Ryan Murphy</director>
+      <actor>Mark Ruffalo</actor>
+      <actor>Matt Bomer</actor>
+      <actor>Taylor Kitsch</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Finn Wittrock</actor>
+      <actor>Julia Roberts</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818151600 -0300" stop="20180818180000 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">Um Domingo Qualquer</title>
+    <desc lang="pt">O Miami Sharks não ganha o campeonato há 4 anos. A pressão aumenta, principalmente de Christina Pagniacci, presidente e co-proprietária(n)</desc>
+    <credits>
+      <director>Oliver Stone</director>
+      <actor>Al Pacino</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>James Woods</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>L L Cool J</actor>
+      <actor>Matthew Modine</actor>
+      <actor>Charlton Heston</actor>
+      <actor>John C. McGinley</actor>
+      <actor>Ann-Margret</actor>
+      <actor>Lela Rochon</actor>
+    </credits>
+    <date>1999</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818180000 -0300" stop="20180818190500 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">Minha Vida é um Circo: Revoluções Francesas</title>
+    <desc lang="pt">Um grupo circense brasileiro formado por Montanha, Cafi e Du Circo viaja ao redor do mundo, visitando trapezistas no interior da França(n)</desc>
+    <credits>
+      <director>Felipe Briso</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818190500 -0300" stop="20180818205600 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">Paterno</title>
+    <desc lang="pt">Um retrato do veterano treinador de futebol americano Joe Paterno, no momento em que seu legado se vê ofuscado pelo escândalo de abuso sexual de seu colega Jerry Sanduzky, ao mesmo tempo em que descobre que sofre de câncer(n)</desc>
+    <credits>
+      <director>Barry Levinson</director>
+      <actor>Al Pacino</actor>
+      <actor>Riley Keough</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Greg Grunberg</actor>
+      <actor>Nicholas Sadler</actor>
+      <actor>Jim Johnson</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818205600 -0300" stop="20180818220000 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">Sr. Ávila</title>
+    <desc lang="pt">Em sua temporada final, Senhor Ávila retorna para se vingar, resolver os conflitos com seus demônios internos e tratar de acabar com uma organização secreta e aparentemente inalcançável(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180818220000 -0300" stop="20180818230300 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">Sharp Objects</title>
+    <desc lang="pt">Sharp Objects acompanha Camille, uma repórter criminalística recém-saída de um hospital psicológico devido a anos de violência auto-infligida(n)</desc>
+    <credits>
+      <director>Jean-Marc Vallée</director>
+      <actor>Amy Adams</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Chris Messina</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818230300 -0300" stop="20180818233600 -0300" channel="HBO SIGNATURE HD">
+    <title lang="pt">Ballers</title>
+    <desc lang="pt">Após se negar a formar uma aliança com os bilionários irmãos Anderson, Spencer Strasmore e seu parceiro Joe Krutel decidem expandir o negócio e avaliam a possibilidade de compra de uma agência de esportes radicais em Los Angeles(n)</desc>
+    <credits>
+      <director>Julian Farino</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Omar Benson Miller</actor>
+      <actor>John David Washington</actor>
+      <actor>Troy Garity</actor>
+      <actor>Donovan W. Carter</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818001600 -0300" stop="20180818034200 -0300" channel="MAX HD">
+    <title lang="pt">O Lobo de Wall Street</title>
+    <desc lang="pt">A ambição leva Jordan Belfort a ser um dos principais milionários dos Estados Unidos. No entanto, sua vida de dinheiro, sexo e drogas fica manchada quando o FBI começa a investigá-lo por fraudes de títulos da bolsa(n)</desc>
+    <credits>
+      <director>Martin Scorsese</director>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Matthew McConaughey</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180818034200 -0300" stop="20180818053700 -0300" channel="MAX HD">
+    <title lang="pt">Contra o Tempo</title>
+    <desc lang="pt">Uma mistura de hip hop com artes marciais. Jet Li e o rapper DMX são rivais, obrigados a se tornarem parceiros vivendo fortes emoções. Ao som de Eminen e DMX(n)</desc>
+    <credits>
+      <director>Andezej Bartkowiak</director>
+      <actor>Jet Li</actor>
+      <actor>DMX</actor>
+      <actor>Anthony Anderson</actor>
+      <actor>Gabrielle Union</actor>
+      <actor>Kelly Hu</actor>
+      <actor>Tom Arnold</actor>
+      <actor>Mark Dacascos</actor>
+      <actor>Michael Jace</actor>
+      <actor>Paige Hurd</actor>
+      <actor>Richard Trapp</actor>
+      <actor>Ron Yuan</actor>
+      <actor>Woon Young Park</actor>
+      <actor>Johnny Nguyen</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818053700 -0300" stop="20180818055800 -0300" channel="MAX HD">
+    <title lang="pt">Festival de Cinema de Los Cabos 2018</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818055800 -0300" stop="20180818080800 -0300" channel="MAX HD">
+    <title lang="pt">A Mais Bela</title>
+    <desc lang="pt">Mona, mulher de uma pequena cidade, nunca teve boa relação com os pais. Ela sacrifica tudo, inclusive a família, na busca de conquistar um título em um concurso de beleza. Para isto, convence a melhor amiga Ruby para ajudá-la(n)</desc>
+    <credits>
+      <director>Sally Field</director>
+      <actor>Minnie Driver</actor>
+      <actor>Joey Lauren Adams</actor>
+      <actor>Hallie Kate Eisenberg</actor>
+      <actor>Kathleen Turner</actor>
+      <actor>Leslie Stefanson</actor>
+      <actor>Bridgette Wilson-Sampras</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818080800 -0300" stop="20180818083500 -0300" channel="MAX HD">
+    <title lang="pt">Festival de Cinema de Berlim 2018</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818083500 -0300" stop="20180818102400 -0300" channel="MAX HD">
+    <title lang="pt">Sob a Luz da Fama: O Poder da Paixão</title>
+    <desc lang="pt">Reviva o fenômeno Sob a Luz da Fama com novas paixões e novos parceiros em(n)</desc>
+    <credits>
+      <director>Steven Jacobson</director>
+      <actor>Rachele Brooke Smith</actor>
+      <actor>Kenny Wormald</actor>
+      <actor>Sarah Jayne Jensen</actor>
+      <actor>Peter Gallagher</actor>
+      <actor>Ethan Stiefel</actor>
+      <actor>Lucia Walters</actor>
+      <actor>Nicole Muñoz</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818102400 -0300" stop="20180818121700 -0300" channel="MAX HD">
+    <title lang="pt">Um Dia Essa Dor Será Útil</title>
+    <desc lang="pt">James é um jovem introvertido de 17 anos. Seus pais estão divorciados e vivem a vida do jeito deles, sua irmã não é uma boa companhia e sua mãe acha que ele precisa de ajuda profissional. Quem disse que viver é fácil(n)</desc>
+    <credits>
+      <director>Roberto Faenza</director>
+      <actor>Aubrey Plaza</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Marcia Gay Harden</actor>
+      <actor>Deborah Ann Woll</actor>
+      <actor>Stephen Lang</actor>
+      <actor>Ellen Burstyn</actor>
+      <actor>Peter Gallagher</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818121700 -0300" stop="20180818134400 -0300" channel="MAX HD">
+    <title lang="pt">Batman sem Limites: Mechas Vs Mutantes</title>
+    <desc lang="pt">Mais uma vez, a Cidade de Gothan está em perigo: o Mr. Freeze transformou os criminosos mais perigosos da cidade em monstros mutantes, portanto, Batman e Robin deverão se unir e usar seus próprios robôs gigantes(n)</desc>
+    <credits>
+      <director>Curt Geda</director>
+      <actor>Vozes de Carlos Alazraqui</actor>
+      <actor>Troy Baker</actor>
+      <actor>Chris Diamantopoulos</actor>
+      <actor>Alastair Duncan</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818134400 -0300" stop="20180818152000 -0300" channel="MAX HD">
+    <title lang="pt">Um Monstro em Paris</title>
+    <desc lang="pt">1910, Paris. Um misterioso monstro que vive em um jardim se apaixona por uma bela e jovem cantora e fica preso na mais inesperada e emocionante aventura(n)</desc>
+    <credits>
+      <director>Bibo Bergeron</director>
+      <actor>Vozes de Matthieu Chedid</actor>
+      <actor>Vanessa Paradis</actor>
+      <actor>Gad Elmaleh</actor>
+      <actor>François Cluzet</actor>
+      <actor>Ludivine Sagnier</actor>
+      <actor>Julie Ferrier</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818152000 -0300" stop="20180818174400 -0300" channel="MAX HD">
+    <title lang="pt">Quebrando a Banca</title>
+    <desc lang="pt">O brilhante estudante, Ben Campbell, é treinado por um professor de matemática para se juntar a um grupo que vai a Las Vegas jogar. As apostas são altas e o desafio é ganhar o dinheiro(n)</desc>
+    <credits>
+      <director>Robert Luketic</director>
+      <actor>Kevin Spacey</actor>
+      <actor>Jim Stugess</actor>
+      <actor>Kate Bosworth</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Aaron Yoo</actor>
+      <actor>Liza Lapira</actor>
+      <actor>Jacob Pitts</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818174400 -0300" stop="20180818200000 -0300" channel="MAX HD">
+    <title lang="pt">Parker</title>
+    <desc lang="pt">Jason Statham é Parker, um ladrão profissional cuja vida é regida por um forte código de ética. Mas quando seus companheiros o traem e tentam matá-lo, Parker leva a cabo uma terrível vingança(n)</desc>
+    <credits>
+      <director>Taylor Hackford</director>
+      <actor>Jason Statham</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Wendell Pierce</actor>
+      <actor>Clifton Collins Jr</actor>
+      <actor>Bobby Cannavale</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818200000 -0300" stop="20180818220000 -0300" channel="MAX HD">
+    <title lang="pt">No Sangue</title>
+    <desc lang="pt">Um casal decide passar férias no Caribe. Durante o percurso, o jovem sofre um acidente e desaparece. Sem ajuda das autoridades, ela decide começar uma incansável perseguição atrás dos homens que acha serem os responsáveis(n)</desc>
+    <credits>
+      <director>John Stockwell</director>
+      <actor>Eloise Mumford</actor>
+      <actor>Treat Williams</actor>
+      <actor>Amaury Nolasco</actor>
+      <actor>Stephen Lang</actor>
+      <actor>Danny Trejo</actor>
+      <actor>Cam Gigandet</actor>
+      <actor>Gina Carano</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818220000 -0300" stop="20180818234900 -0300" channel="MAX HD">
+    <title lang="pt">Invasão a Londres</title>
+    <desc lang="pt">O Presidente dos Estados Unidos se reúne em Londres com vários líderes mundiais para o funeral do Primeiro Ministro Britânico. Mas quando o evento se transforma em uma armadilha mortal(n)</desc>
+    <credits>
+      <director>Babak Najafi</director>
+      <actor>Gerard Butler</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Radha Mitchell</actor>
+      <actor>Martin Petrushev</actor>
+      <actor>Lucy Newman-Williams</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818234900 -0300" stop="20180819021500 -0300" channel="MAX HD">
+    <title lang="pt">Terras Mortas</title>
+    <desc lang="pt">Depois que sua tribo foi traída e massacrada, Hongi busca vingar seu pai e levar paz para as almas de seus entes queridos. Sua única esperança é passar através de um temido território e forjar uma aliança com seu misterioso líder(n)</desc>
+    <credits>
+      <director>Toa Fraser</director>
+      <actor>James Rolleston</actor>
+      <actor>Raukura Turei</actor>
+      <actor>Xavier Horan</actor>
+      <actor>Te Kohe Tuhaka</actor>
+      <actor>Lawrence Makoare</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818015500 -0300" stop="20180818034500 -0300" channel="MAX PRIME HD">
+    <title lang="pt">O Diabo Veste Azul</title>
+    <desc lang="pt">Herói de guerra aceita emprego de investigador e acaba envolvido numa rede de intrigas, assassinatos, chantagens, policiais violentos e políticos corruptos(n)</desc>
+    <credits>
+      <director>Carl Franklin</director>
+      <actor>Denzel Washington</actor>
+      <actor>Tom Sizemore</actor>
+      <actor>Jennifer Beals</actor>
+      <actor>Don Cheadle</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180818034500 -0300" stop="20180818053500 -0300" channel="MAX PRIME HD">
+    <title lang="pt">O Último Matador</title>
+    <desc lang="pt">O pistoleiro John Smith chega a uma cidade próxima à fronteira do México. A Lei Seca está em vigor. Dois gangsters disputam o controle do lugar e dominam o contrabando de bebida. O xerife é corrupto e quem manda é o gatilho(n)</desc>
+    <credits>
+      <director>Walter Hill</director>
+      <actor>Bruce Willis</actor>
+      <actor>Christopher Walken</actor>
+      <actor>Bruce Dern</actor>
+      <actor>Michael Imperioli</actor>
+      <actor>Alexandra Powers</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180818053500 -0300" stop="20180818072000 -0300" channel="MAX PRIME HD">
+    <title lang="pt">Loucademia de Polícia</title>
+    <desc lang="pt">Grupo de trapalhões entra para a Academia de Polícia de uma grande cidade, criando muita confusão e situações engraçadíssimas(n)</desc>
+    <credits>
+      <director>Hugh Wilson</director>
+      <actor>Steve Guttenberg</actor>
+      <actor>G.W. Bailey</actor>
+      <actor>George Gaynes</actor>
+      <actor>Kim Catrall</actor>
+      <actor>Bubba Smith</actor>
+      <actor>Donovan Scott</actor>
+      <actor>Andrew Rubin</actor>
+      <actor>Leslie Easterbrook</actor>
+      <actor>David Graf</actor>
+    </credits>
+    <date>1984</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818072000 -0300" stop="20180818083000 -0300" channel="MAX PRIME HD">
+    <title lang="pt">State Of Play 03: Quebrados</title>
+    <desc lang="pt">Este documentário original HBO Sports conta a história do jogador de futebol americano Eric LeGrand e do ciclista de montanha Steve Shope, ambos atletas profissionais que ficaram paraplégicos(n)</desc>
+    <credits>
+      <director>Peter Berg</director>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818083000 -0300" stop="20180818102000 -0300" channel="MAX PRIME HD">
+    <title lang="pt">A Balada do Pistoleiro</title>
+    <desc lang="pt">Após a mulher ser assassinada, um mariachi abandona a música e com a ajuda de seu amigo transforma-se num pistoleiro em busca de vingança(n)</desc>
+    <credits>
+      <director>Robert Rodriguez</director>
+      <actor>Antonio Banderas</actor>
+      <actor>Salma Hayek</actor>
+      <actor>Joaquim de Almeida</actor>
+      <actor>Cheech Marin</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>Carlos Gómez</actor>
+      <actor>Quentin Tarantino</actor>
+      <actor>Tito Larriva</actor>
+      <actor>Angel Aviles</actor>
+      <actor>Danny Trejo</actor>
+      <actor>Abraham Verduzco</actor>
+      <actor>Carlos Gallardo</actor>
+      <actor>Albert Michel Jr</actor>
+      <actor>David Alvarado</actor>
+      <actor>Angela Lanza</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818102000 -0300" stop="20180818123000 -0300" channel="MAX PRIME HD">
+    <title lang="pt">Nocaute</title>
+    <desc lang="pt">Após perder a esposa em um acidente e em seguida a guarda de sua filha, o boxeador Billy Hope tenta retomar sua carreira e pede ajuda a um lutador aposentado, que já treinou os melhores boxeadores da cidade(n)</desc>
+    <credits>
+      <director>Antoine Fuqua</director>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Rachel McAdams</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>50 Cent</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Victor Ortiz</actor>
+      <actor>Beau Knapp</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818123000 -0300" stop="20180818145000 -0300" channel="MAX PRIME HD">
+    <title lang="pt">Raça</title>
+    <desc lang="pt">A história de Jesse Owens, atleta americano que superou o racismo e não só participou dos Jogos Olímpicos de Berlim em 1936, em pleno regime nazista, como conquistou quatro medalhas de ouro(n)</desc>
+    <credits>
+      <director>Stephen Hopkins</director>
+      <actor>Stephan James</actor>
+      <actor>Jason Sudeikis</actor>
+      <actor>Eli Goree</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818145000 -0300" stop="20180818164000 -0300" channel="MAX PRIME HD">
+    <title lang="pt">Beijos e Tiros</title>
+    <desc lang="pt">Ladrão fracassado invade teste de atores e acaba sendo enviado para Hollywood para trabalhar. Lá ele participa de um(n)</desc>
+    <credits>
+      <director>Shane Black</director>
+      <actor>Robert Downey Jr</actor>
+      <actor>Val Kilmer</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Corbin Bernsen</actor>
+      <actor>Dash Mihok</actor>
+      <actor>Larry Miller</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Shannyn Sossamon</actor>
+      <actor>Angela Lindvall</actor>
+      <actor>Indio Falconer Downey</actor>
+      <actor>Ariel Winter</actor>
+      <actor>Duane Carnahan</actor>
+      <actor>Josh Richman</actor>
+      <actor>Martha Hackett</actor>
+      <actor>Nancy Fish</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818164000 -0300" stop="20180818181000 -0300" channel="MAX PRIME HD">
+    <title lang="pt">Mandando Bala</title>
+    <desc lang="pt">Um homem tenta salvar uma mulher que acaba de dar à luz, mas consegue resgatar apenas o bebê recém-nascido. É quando ele descobre que a criança é o alvo de uma gangue de matadores(n)</desc>
+    <credits>
+      <director>Michael Davis</director>
+      <actor>Clive Owen</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Monica Bellucci</actor>
+      <actor>Stephen McHattie</actor>
+      <actor>Daniel Pilon</actor>
+      <actor>Sidney Mende-Gibson</actor>
+      <actor>Lucas Mende-Gibson</actor>
+      <actor>Ramona Pringle</actor>
+      <actor>Greg Byrk</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818181000 -0300" stop="20180818195500 -0300" channel="MAX PRIME HD">
+    <title lang="pt">Chips - O Filme</title>
+    <desc lang="pt">Jon é um motociclista que tenta salvar seu casamento, enquanto Frank é um agente que investiga o roubo onde alguns policiais estão envolvidos(n)</desc>
+    <credits>
+      <director>Dax Shepard</director>
+      <actor>Michael Peña</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Adam Brody</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Jane Kaczmarek</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818195500 -0300" stop="20180818220000 -0300" channel="MAX PRIME HD">
+    <title lang="pt">Esquadrão Suicida</title>
+    <desc lang="pt">Após a aparição do Superman, a agente Amanda está convencida que o governo americano precisa ter sua própria equipe de metahumanos(n)</desc>
+    <credits>
+      <director>David Ayer</director>
+      <actor>Will Smith</actor>
+      <actor>Jaime FitzSimons</actor>
+      <actor>Ike Barinholtz</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Christopher Dyson</actor>
+      <actor>Bambadjan Bamba</actor>
+      <actor>Viola Davis</actor>
+      <actor>Ted Whittall</actor>
+      <actor>David Harbour</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818000000 -0300" stop="20180818100000 -0300" channel="PREMIERE 2 (0264)">
+    <title lang="pt">Venda Premiere 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818100000 -0300" stop="20180818120000 -0300" channel="PREMIERE 2 (0264)">
+    <title lang="pt">Venda Premiere 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818120000 -0300" stop="20180818140000 -0300" channel="PREMIERE 2 (0264)">
+    <title lang="pt">Venda Premiere 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818140000 -0300" stop="20180818160000 -0300" channel="PREMIERE 2 (0264)">
+    <title lang="pt">Venda Premiere 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818160000 -0300" stop="20180818180000 -0300" channel="PREMIERE 2 (0264)">
+    <title lang="pt">Venda Premiere 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818180000 -0300" stop="20180818183000 -0300" channel="PREMIERE 2 (0264)">
+    <title lang="pt">Venda Premiere 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818183000 -0300" stop="20180818190000 -0300" channel="PREMIERE 2 (0264)">
+    <title lang="pt">Venda Premiere 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818190000 -0300" stop="20180818210000 -0300" channel="PREMIERE 2 (0264)">
+    <title lang="pt">Venda Premiere 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818210000 -0300" stop="20180818223000 -0300" channel="PREMIERE 2 (0264)">
+    <title lang="pt">Venda Premiere 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818223000 -0300" stop="20180819000000 -0300" channel="PREMIERE 2 (0264)">
+    <title lang="pt">Venda Premiere 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818000000 -0300" stop="20180818020000 -0300" channel="PREMIERE 3 (0264)">
+    <title lang="pt">Venda Premiere</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818020000 -0300" stop="20180818040000 -0300" channel="PREMIERE 3 (0264)">
+    <title lang="pt">Venda Premiere</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818040000 -0300" stop="20180818060000 -0300" channel="PREMIERE 3 (0264)">
+    <title lang="pt">Venda Premiere</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818060000 -0300" stop="20180818080000 -0300" channel="PREMIERE 3 (0264)">
+    <title lang="pt">Venda Premiere</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818080000 -0300" stop="20180818100000 -0300" channel="PREMIERE 3 (0264)">
+    <title lang="pt">Venda Premiere</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818100000 -0300" stop="20180818120000 -0300" channel="PREMIERE 3 (0264)">
+    <title lang="pt">Venda Premiere</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818120000 -0300" stop="20180818140000 -0300" channel="PREMIERE 3 (0264)">
+    <title lang="pt">Venda Premiere</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818140000 -0300" stop="20180818160000 -0300" channel="PREMIERE 3 (0264)">
+    <title lang="pt">Venda Premiere</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818160000 -0300" stop="20180818180000 -0300" channel="PREMIERE 3 (0264)">
+    <title lang="pt">Venda Premiere</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818180000 -0300" stop="20180818200000 -0300" channel="PREMIERE 3 (0264)">
+    <title lang="pt">Venda Premiere</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818200000 -0300" stop="20180818220000 -0300" channel="PREMIERE 3 (0264)">
+    <title lang="pt">Venda Premiere</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818220000 -0300" stop="20180819000000 -0300" channel="PREMIERE 3 (0264)">
+    <title lang="pt">Venda Premiere</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818000000 -0300" stop="20180818023000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818023000 -0300" stop="20180818030000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818030000 -0300" stop="20180818050000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818050000 -0300" stop="20180818060000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818060000 -0300" stop="20180818080000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818080000 -0300" stop="20180818100000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818100000 -0300" stop="20180818120000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818120000 -0300" stop="20180818140000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818140000 -0300" stop="20180818143000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818143000 -0300" stop="20180818163000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818163000 -0300" stop="20180818170000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818170000 -0300" stop="20180818190000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818190000 -0300" stop="20180818200000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818200000 -0300" stop="20180818220000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818220000 -0300" stop="20180819000000 -0300" channel="PREMIERE 4 (0264)">
+    <title lang="pt">Venda Premiere 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818010000 -0300" stop="20180818040000 -0300" channel="PREMIERE 5 (0264)">
+    <title lang="pt">Venda Premiere 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818040000 -0300" stop="20180818070000 -0300" channel="PREMIERE 5 (0264)">
+    <title lang="pt">Venda Premiere 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818070000 -0300" stop="20180818100000 -0300" channel="PREMIERE 5 (0264)">
+    <title lang="pt">Venda Premiere 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818100000 -0300" stop="20180818130000 -0300" channel="PREMIERE 5 (0264)">
+    <title lang="pt">Venda Premiere 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818130000 -0300" stop="20180818160000 -0300" channel="PREMIERE 5 (0264)">
+    <title lang="pt">Venda Premiere 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818160000 -0300" stop="20180818190000 -0300" channel="PREMIERE 5 (0264)">
+    <title lang="pt">Venda Premiere 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818190000 -0300" stop="20180818220000 -0300" channel="PREMIERE 5 (0264)">
+    <title lang="pt">Venda Premiere 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818220000 -0300" stop="20180819000000 -0300" channel="PREMIERE 5 (0264)">
+    <title lang="pt">Venda Premiere 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818000000 -0300" stop="20180818020000 -0300" channel="PREMIERE 6 (0264)">
+    <title lang="pt">Venda Premiere 6</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818020000 -0300" stop="20180818040000 -0300" channel="PREMIERE 6 (0264)">
+    <title lang="pt">Venda Premiere 6</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818040000 -0300" stop="20180818070000 -0300" channel="PREMIERE 6 (0264)">
+    <title lang="pt">Venda Premiere 6</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818070000 -0300" stop="20180818100000 -0300" channel="PREMIERE 6 (0264)">
+    <title lang="pt">Venda Premiere 6</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818100000 -0300" stop="20180818130000 -0300" channel="PREMIERE 6 (0264)">
+    <title lang="pt">Venda Premiere 6</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818130000 -0300" stop="20180818160000 -0300" channel="PREMIERE 6 (0264)">
+    <title lang="pt">Venda Premiere 6</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818160000 -0300" stop="20180818190000 -0300" channel="PREMIERE 6 (0264)">
+    <title lang="pt">Venda Premiere 6</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818190000 -0300" stop="20180818210000 -0300" channel="PREMIERE 6 (0264)">
+    <title lang="pt">Venda Premiere 6</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818210000 -0300" stop="20180819000000 -0300" channel="PREMIERE 6 (0264)">
+    <title lang="pt">Venda Premiere 6</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818000000 -0300" stop="20180818020000 -0300" channel="PREMIERE 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818020000 -0300" stop="20180818040000 -0300" channel="PREMIERE 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818040000 -0300" stop="20180818060000 -0300" channel="PREMIERE 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818060000 -0300" stop="20180818080000 -0300" channel="PREMIERE 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818080000 -0300" stop="20180818100000 -0300" channel="PREMIERE 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818100000 -0300" stop="20180818120000 -0300" channel="PREMIERE 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818120000 -0300" stop="20180818140000 -0300" channel="PREMIERE 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818140000 -0300" stop="20180818160000 -0300" channel="PREMIERE 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818160000 -0300" stop="20180818180000 -0300" channel="PREMIERE 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818180000 -0300" stop="20180818200000 -0300" channel="PREMIERE 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818200000 -0300" stop="20180818220000 -0300" channel="PREMIERE 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818220000 -0300" stop="20180819000000 -0300" channel="PREMIERE 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818001500 -0300" stop="20180818010000 -0300" channel="RAI">
+    <title lang="pt">Non Disturbare</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818010000 -0300" stop="20180818023000 -0300" channel="RAI">
+    <title lang="pt">Come Fai Sbagli</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818023000 -0300" stop="20180818043000 -0300" channel="RAI">
+    <title lang="pt">Le Vie dell'Amicizia</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818043000 -0300" stop="20180818050000 -0300" channel="RAI">
+    <title lang="pt">Top Tutto Quanto Fa Tendenza</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818050000 -0300" stop="20180818064500 -0300" channel="RAI">
+    <title lang="pt">Scala Mercalli</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818064500 -0300" stop="20180818071500 -0300" channel="RAI">
+    <title lang="pt">TG2</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818071500 -0300" stop="20180818073000 -0300" channel="RAI">
+    <title lang="pt">TG3</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818073000 -0300" stop="20180818080000 -0300" channel="RAI">
+    <title lang="pt">Frigo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Adrien Pallatier</director>
+      <director>Vincent Templement</director>
+      <actor>Clément Moreau</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818080000 -0300" stop="20180818081500 -0300" channel="RAI">
+    <title lang="pt">Back Stage</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818081500 -0300" stop="20180818084500 -0300" channel="RAI">
+    <title lang="pt">TG2</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818084500 -0300" stop="20180818091500 -0300" channel="RAI">
+    <title lang="pt">Sereno Variabile estate</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818091500 -0300" stop="20180818101500 -0300" channel="RAI">
+    <title lang="pt">Overland</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818101500 -0300" stop="20180818111500 -0300" channel="RAI">
+    <title lang="pt">Linea Verde</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818111500 -0300" stop="20180818120000 -0300" channel="RAI">
+    <title lang="pt">Radici</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818120000 -0300" stop="20180818131500 -0300" channel="RAI">
+    <title lang="pt">Linea Blu</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818131500 -0300" stop="20180818151500 -0300" channel="RAI">
+    <title lang="pt">Per Mille Strade con Papa Francesco</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818151500 -0300" stop="20180818154500 -0300" channel="RAI">
+    <title lang="pt">TG1</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818154500 -0300" stop="20180818161500 -0300" channel="RAI">
+    <title lang="pt">Digital World</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818161500 -0300" stop="20180818180000 -0300" channel="RAI">
+    <title lang="pt">Rossella</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818180000 -0300" stop="20180818181500 -0300" channel="RAI">
+    <title lang="pt">Cartoni</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818181500 -0300" stop="20180818190000 -0300" channel="RAI">
+    <title lang="pt">Italian Beauty</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818190000 -0300" stop="20180818194500 -0300" channel="RAI">
+    <title lang="pt">Dreams Road</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818194500 -0300" stop="20180818201500 -0300" channel="RAI">
+    <title lang="pt">I Signori Del Vino</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818201500 -0300" stop="20180818204500 -0300" channel="RAI">
+    <title lang="pt">Tg Rainews</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818204500 -0300" stop="20180818221500 -0300" channel="RAI">
+    <title lang="pt">Il Commissario Montalbano</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818221500 -0300" stop="20180818234500 -0300" channel="RAI">
+    <title lang="pt">Castrocaro</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
